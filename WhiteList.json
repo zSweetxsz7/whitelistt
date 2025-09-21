@@ -1,8 +1,12 @@
 {
-  "Players": {
-    "s1pxzk": {
-      "key": "CHAVE123",
-      "active": true
+    "Players": {
+        "s1pxzk": {
+            "key": "CHAVE123",
+            "active": true
+        },
+        "s1lent7xs": {
+            "key": "CHAVE999",
+            "active": true
+        }
     }
-  }
 }
